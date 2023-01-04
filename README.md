@@ -14,7 +14,7 @@ This service responsibility is to save the incoming data from reasonlabs-cron-ha
 Please create a database in mysql with the following name and also change the username and passowrd accordingly in config.js. Table is create when application is started
 
 ```
-reasonlabswebappdb
+database: reasonlabswebappdb
 ```
 
 In the root directory of the project just do
